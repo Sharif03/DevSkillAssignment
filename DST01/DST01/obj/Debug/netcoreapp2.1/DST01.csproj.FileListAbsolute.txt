@@ -9,3 +9,14 @@ C:\Users\admin\source\repos\CSharpDevSkill\DST01\DST01\obj\Debug\netcoreapp2.1\D
 C:\Users\admin\source\repos\CSharpDevSkill\DST01\DST01\obj\Debug\netcoreapp2.1\DST01.AssemblyInfo.cs
 C:\Users\admin\source\repos\CSharpDevSkill\DST01\DST01\obj\Debug\netcoreapp2.1\DST01.dll
 C:\Users\admin\source\repos\CSharpDevSkill\DST01\DST01\obj\Debug\netcoreapp2.1\DST01.pdb
+D:\DevSkill\DevSkill Work Place\DevSkill-CSharp-Training\DST01\DST01\bin\Debug\netcoreapp2.1\DST01.deps.json
+D:\DevSkill\DevSkill Work Place\DevSkill-CSharp-Training\DST01\DST01\bin\Debug\netcoreapp2.1\DST01.runtimeconfig.json
+D:\DevSkill\DevSkill Work Place\DevSkill-CSharp-Training\DST01\DST01\bin\Debug\netcoreapp2.1\DST01.runtimeconfig.dev.json
+D:\DevSkill\DevSkill Work Place\DevSkill-CSharp-Training\DST01\DST01\bin\Debug\netcoreapp2.1\DST01.dll
+D:\DevSkill\DevSkill Work Place\DevSkill-CSharp-Training\DST01\DST01\bin\Debug\netcoreapp2.1\DST01.pdb
+D:\DevSkill\DevSkill Work Place\DevSkill-CSharp-Training\DST01\DST01\obj\Debug\netcoreapp2.1\DST01.csprojAssemblyReference.cache
+D:\DevSkill\DevSkill Work Place\DevSkill-CSharp-Training\DST01\DST01\obj\Debug\netcoreapp2.1\DST01.csproj.CoreCompileInputs.cache
+D:\DevSkill\DevSkill Work Place\DevSkill-CSharp-Training\DST01\DST01\obj\Debug\netcoreapp2.1\DST01.AssemblyInfoInputs.cache
+D:\DevSkill\DevSkill Work Place\DevSkill-CSharp-Training\DST01\DST01\obj\Debug\netcoreapp2.1\DST01.AssemblyInfo.cs
+D:\DevSkill\DevSkill Work Place\DevSkill-CSharp-Training\DST01\DST01\obj\Debug\netcoreapp2.1\DST01.dll
+D:\DevSkill\DevSkill Work Place\DevSkill-CSharp-Training\DST01\DST01\obj\Debug\netcoreapp2.1\DST01.pdb

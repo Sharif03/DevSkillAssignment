@@ -27,8 +27,8 @@ namespace DST01
             //int? age = null;
             //Console.WriteLine(age);
 
-            int ag = Convert.ToInt16(Console.ReadLine());
-            Console.WriteLine(ag);
+            int age = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine(age);
 
 
             Console.ReadLine();

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\CSharpDevSkill\\DST01\\DST01\\DST01.csproj",
+      "projectUniqueName": "D:\\DevSkill\\DevSkill Work Place\\DevSkill-CSharp-Training\\DST01\\DST01\\DST01.csproj",
       "projectName": "DST01",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\CSharpDevSkill\\DST01\\DST01\\DST01.csproj",
+      "projectPath": "D:\\DevSkill\\DevSkill Work Place\\DevSkill-CSharp-Training\\DST01\\DST01\\DST01.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\CSharpDevSkill\\DST01\\DST01\\obj\\",
+      "outputPath": "D:\\DevSkill\\DevSkill Work Place\\DevSkill-CSharp-Training\\DST01\\DST01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
