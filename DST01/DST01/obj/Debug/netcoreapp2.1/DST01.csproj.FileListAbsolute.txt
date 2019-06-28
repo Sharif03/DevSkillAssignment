@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\CSharpDevSkill\DST01\DST01\bin\Debug\netcoreapp2.1\DST01.deps.json
+C:\Users\admin\source\repos\CSharpDevSkill\DST01\DST01\bin\Debug\netcoreapp2.1\DST01.runtimeconfig.json
+C:\Users\admin\source\repos\CSharpDevSkill\DST01\DST01\bin\Debug\netcoreapp2.1\DST01.runtimeconfig.dev.json
+C:\Users\admin\source\repos\CSharpDevSkill\DST01\DST01\bin\Debug\netcoreapp2.1\DST01.dll
+C:\Users\admin\source\repos\CSharpDevSkill\DST01\DST01\bin\Debug\netcoreapp2.1\DST01.pdb
+C:\Users\admin\source\repos\CSharpDevSkill\DST01\DST01\obj\Debug\netcoreapp2.1\DST01.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\CSharpDevSkill\DST01\DST01\obj\Debug\netcoreapp2.1\DST01.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CSharpDevSkill\DST01\DST01\obj\Debug\netcoreapp2.1\DST01.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CSharpDevSkill\DST01\DST01\obj\Debug\netcoreapp2.1\DST01.AssemblyInfo.cs
+C:\Users\admin\source\repos\CSharpDevSkill\DST01\DST01\obj\Debug\netcoreapp2.1\DST01.dll
+C:\Users\admin\source\repos\CSharpDevSkill\DST01\DST01\obj\Debug\netcoreapp2.1\DST01.pdb
