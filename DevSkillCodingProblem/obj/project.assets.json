@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\DevSkillCodingProblem\\DevSkillCodingProblem.csproj",
+      "projectUniqueName": "E:\\Computer Science\\03. (Batch-02) Full Stack Asp.net Core MVC Web Developement\\DevSkill Problem File (100 Problems)\\DevSkillCodingProblemArchive\\DevSkillCodingProblem\\DevSkillCodingProblem.csproj",
       "projectName": "DevSkillCodingProblem",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\DevSkillCodingProblem\\DevSkillCodingProblem.csproj",
+      "projectPath": "E:\\Computer Science\\03. (Batch-02) Full Stack Asp.net Core MVC Web Developement\\DevSkill Problem File (100 Problems)\\DevSkillCodingProblemArchive\\DevSkillCodingProblem\\DevSkillCodingProblem.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\DevSkillCodingProblem\\obj\\",
+      "outputPath": "E:\\Computer Science\\03. (Batch-02) Full Stack Asp.net Core MVC Web Developement\\DevSkill Problem File (100 Problems)\\DevSkillCodingProblemArchive\\DevSkillCodingProblem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
