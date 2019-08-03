@@ -11,10 +11,12 @@ namespace DevSkillCodingProblem
             var T = Convert.ToInt32(Console.ReadLine());
             for (int i = 0; i < T; i++)
             {
-                var v = Convert.ToDecimal(Console.ReadLine());
-                var t = Convert.ToDecimal(Console.ReadLine());
-                int r = (int)(v / t);
+                string line = Console.ReadLine();
+                string[] lineParts = line.Split(' ');
 
+                var v = Convert.ToDecimal(lineParts[0]);
+                var t = Convert.ToDecimal(lineParts[1]);
+                double r = (double)(v / t);
                 Console.WriteLine(string.Format("-{0:n2}", r));
             }
         }
