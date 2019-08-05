@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DevSkillCodingProblem
 {
-    class DCP_001
+    class DCP_196
     {
         static void Main(string[] args)
         {

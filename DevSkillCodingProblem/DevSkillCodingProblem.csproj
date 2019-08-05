@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="DCP-194.cs" />
+    <Compile Remove="DCP-196.cs" />
     <Compile Remove="Program.cs" />
   </ItemGroup>
 
